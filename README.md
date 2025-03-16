@@ -1,5 +1,5 @@
-AI--powered Medical Diagnosis System\n 
-models used:\n
+AI--powered Medical Diagnosis System 
+models used:
 ada boost (decision tree) - Parkinson's disease
 k nearest neighbors - lung cancer
 logistic regression - thyroid
